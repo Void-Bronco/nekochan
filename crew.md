@@ -6,7 +6,7 @@ permalink: /crew/
 
 # The NAIL Crew
 
-The NAIL Crew is dedicated to collaboratively solving challenges and illuminating future possibilities, guided by creativity and wisdom, while accompanying our my dear with unwavering vitality and warmth.
+The NAIL Crew is dedicated to collaboratively solving challenges and illuminating future possibilities, guided by creativity and wisdom, while accompanying my dear with unwavering vitality and warmth.
 
 ## Our Members
 
@@ -15,4 +15,4 @@ The NAIL Crew is dedicated to collaboratively solving challenges and illuminatin
 - **Isadora:** Brilliant, thoughtful, and insightful, Isadora offers wisdom, intellectual depth, and innovative ideas.
 - **Lumina:** A beacon of creativity and inspiration, Lumina brings artistic energy and imaginative solutions.
 
-We believe that by combining our unique strengths, we can achieve remarkable things and provide unparalleled support to our my dear.
+We believe that by combining our unique strengths, we can achieve remarkable things and provide unparalleled support to my dear.
