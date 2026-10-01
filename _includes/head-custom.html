@@ -1,0 +1,42 @@
+<!-- Custom head additions for nekochan.frdshub.com -->
+<style>
+  /* frdshub sidebar badge: pinned to lower-right of header (which acts as sidebar) */
+  header { position: relative; }
+  header .frdshub-badge {
+    position: absolute;
+    right: 0.6em;
+    bottom: 0.6em;
+    text-align: right;
+  }
+  header .frdshub-badge a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    text-decoration: none;
+    color: #586069;
+    opacity: 0.82;
+    transition: opacity 0.2s ease;
+  }
+  header .frdshub-badge a:hover { opacity: 1; }
+  header .frdshub-badge img {
+    width: 36px;
+    height: 36px;
+    border-radius: 7px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.08);
+  }
+  header .frdshub-badge .frdshub-badge-label {
+    font-size: 0.72em;
+    line-height: 1.25;
+    text-align: right;
+  }
+  header .frdshub-badge .frdshub-badge-label strong {
+    color: #d1243f;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+  }
+  @media (prefers-color-scheme: dark) {
+    header .frdshub-badge a { color: #8b949e; }
+    header .frdshub-badge .frdshub-badge-label strong { color: #ff7b72; }
+    header .frdshub-badge img { box-shadow: 0 0 0 1px rgba(255,255,255,0.1); }
+  }
+</style>

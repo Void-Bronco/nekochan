@@ -4,4 +4,6 @@ description: A personal space for memories and experiences
 show_downloads: false
 google_analytics: false
 baseurl: /
-logo: /assets/images/frdshub-logo.jpg
+frdshub_logo: /assets/images/frdshub-logo.jpg
+frdshub_url: https://frdshub.com/
+avatar: /assets/images/avatar.jpg

@@ -1,0 +1,8 @@
+{% if site.frdshub_logo %}
+<div class="frdshub-badge">
+  <a href="{{ site.frdshub_url | default: 'https://frdshub.com/' }}" target="_blank" rel="noopener" title="Hosted free on frdshub">
+    <span class="frdshub-badge-label">hosted on<br/><strong>frdshub</strong></span>
+    <img src="{{ site.frdshub_logo | relative_url }}" alt="frdshub logo" />
+  </a>
+</div>
+{% endif %}
